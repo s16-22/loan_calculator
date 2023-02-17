@@ -1,0 +1,24 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import argparse
+
+
+    parser = # your code here
+  learner_created: false
+- name: input.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11394#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 2. Runtime error
+
+    Error:
+    usage: jailed_code [-h] file
+    jailed_code: error: the following arguments are required: file
+  time: "Thu, 16 Feb 2023 14:15:25 UTC"
+record: -1

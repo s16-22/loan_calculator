@@ -1,0 +1,38 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+- name: test.py
+  visible: true
+  learner_created: true
+- name: example.py
+  visible: true
+  learner_created: true
+- name: hyperskill-dataset-76959353.txt
+  visible: true
+  learner_created: true
+- name: cod.txt
+  visible: true
+  learner_created: true
+- name: hyperskill-dataset-77035453.txt
+  visible: true
+  learner_created: true
+- name: hyperskill-reply-96934485.txt
+  visible: true
+  learner_created: true
+- name: 13.txt
+  visible: true
+  learner_created: true
+- name: PuntoSwitcherSetup.exe
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11389#comment
+status: Solved
+feedback:
+  time: "Thu, 16 Feb 2023 02:51:05 UTC"
+record: -1
+post_submission_on_open: true
